@@ -22,6 +22,7 @@ public class Contrat implements Serializable {
 	 */
 	private static final long serialVersionUID = 1L;
 //commit
+//modification2
 	@Id
 	@GeneratedValue(strategy=GenerationType.IDENTITY)
 	private Long reference;
